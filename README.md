@@ -1,8 +1,22 @@
 # IRIS Version 1.5_Close Beta
 
+IRIS Close Beta v1.5.0 테스트 배포 파일입니다.
+
+※ 실행 파일은 Assets의 IRIS.v1.5.0_Closebeta.7z만 다운로드하세요.
+
+Source code (zip) / Source code (tar.gz)는 GitHub가 자동 생성한 개발자용 파일이며 실행용 배포본이 아닙니다.
+
+다운로드 후 반디집 또는 7-Zip으로 압축을 해제하세요.
+비밀번호는 별도로 전달드립니다.
+
+압축 해제 후:
+IRIS_Closebeta v1.5.0 폴더 안의 IRIS.exe를 실행하세요.
+
+백신 경고가 뜨면 실행하지 말고 캡처해서 알려주세요.
+
 # IRIS Close Beta 안내
 
-이 문서는 IRIS Close Beta 테스터를 위한 사용 안내서입니다. IRIS는 Windows 데스크톱에서 음성/텍스트 대화, 짧은 문장 번역, 회의 보조, 화면 설명, 장치 확인, 진단 자료 수집을 돕는 AI 어시스턴트입니다.
+아래는 IRIS Close Beta 테스터를 위한 사용 안내서입니다. IRIS는 Windows 데스크톱에서 음성/텍스트 대화, 짧은 문장 번역, 회의 보조, 화면 설명, 장치 확인, 진단 자료 수집을 돕는 AI 어시스턴트입니다.
 
 현재 Close Beta는 최종 제품이 아니며, v1.5 패키징 단계입니다. 문제가 발생하면 이 문서의 “문제 발생 시 전달할 정보” 섹션을 참고해 안전하게 공유해주세요.
 
